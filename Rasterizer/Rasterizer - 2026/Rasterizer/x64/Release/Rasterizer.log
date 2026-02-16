@@ -1,0 +1,40 @@
+﻿  raster.cpp
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\mesh.h(211,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'raster.cpp')
+  
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\mesh.h(216,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'raster.cpp')
+  
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\renderer.h(11,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'raster.cpp')
+  
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(226,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(226,28): warning C4244:         with
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(226,28): warning C4244:         [
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(226,28): warning C4244:             _Ty=float
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(226,28): warning C4244:         ]
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(227,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(227,28): warning C4244:         with
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(227,28): warning C4244:         [
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(227,28): warning C4244:             _Ty=float
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(227,28): warning C4244:         ]
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(228,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(228,28): warning C4244:         with
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(228,28): warning C4244:         [
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(228,28): warning C4244:             _Ty=float
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(228,28): warning C4244:         ]
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(229,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(229,28): warning C4244:         with
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(229,28): warning C4244:         [
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(229,28): warning C4244:             _Ty=float
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(229,28): warning C4244:         ]
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(287,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(542,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(543,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\Rasterizer\raster.cpp(544,69): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  0 of 906 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Rasterizer.vcxproj -> C:\Users\u5758358\Documents\GamesEngineering\Rasterizer - MultiThreading\Rasterizer - 2026\x64\Release\Rasterizer.exe
